@@ -24,12 +24,12 @@
 Linux：熟悉 Centos6/7 系统 apache、SSL、ftp、DNS、samba、nfs、squid、crond、iSCSI、
 PXE、iptable/firewalld 等常见的。了解 nginx、LVS、zabbix、jumpserver、jenkis、CI/CD、
 gitlab 
-Windows：熟悉 windows server 版本、ftp、web、samba、AD 域、Iscsi、WDS 等 
+Windows：熟悉 windows server 版本、ftp、web、samba、AD 域、Iscsi、WDS 等
 虚拟化：熟悉 vmware vsphere 5/6、vcenter/VCSA 以及 HA、DRS、docker、KVM 等、K8S、
 openstack 组件有了解 
-存储：熟悉 raid、LVM、iSCSI、openfiler 等。了解 NAS、SAN 
+存储：熟悉 raid、LVM、iSCSI、openfiler 等。了解 NAS、SAN
 网络：熟悉 VLSM、CIDR 等 
-思科锐捷基本配置：熟悉 IP、ACL、RIP、OSPF、NAT、IPSec、l2tp、pptp、SSLVPN 
+思科锐捷基本配置：熟悉 IP、ACL、RIP、OSPF、NAT、IPSec、l2tp、pptp、SSLVPN
 语言：了解 shell、SQL、c/c++ 
 数据库：了解 MySQL/Mariadb、Oracle11g-r1 
 
