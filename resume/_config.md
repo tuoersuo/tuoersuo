@@ -34,7 +34,8 @@ openstack 组件有了解
 数据库：了解 MySQL/Mariadb、Oracle11g-r1 
 
 ## 荣誉奖励
-2018 年全国职业院校技能大赛中职组“神州数码 DCN 杯”网络搭建与应用二等奖 
+2018 年全国职业院校技能大赛中职组“神州数码 DCN 杯”网络搭建与应用二等奖
+
 2018 年江苏省职业院校技能大赛中职组 网络搭建与应用一等奖 
 ## 技能证书
 RED HAT CERTIFIED ENGINEER
@@ -42,7 +43,7 @@ RED HAT CERTIFIED ENGINEER
 熟练使用 office 办公软件
 ## 项目
 
-#### JD
+#### 
 
 
 
