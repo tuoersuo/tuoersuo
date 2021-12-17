@@ -22,25 +22,39 @@
 ## 技能点
 
 Linux：熟悉 Centos6/7 系统 apache、SSL、ftp、DNS、samba、nfs、squid、crond、iSCSI、
+
 PXE、iptable/firewalld 等常见的。了解 nginx、LVS、zabbix、jumpserver、jenkis、CI/CD、
+
 gitlab 
+
 Windows：熟悉 windows server 版本、ftp、web、samba、AD 域、Iscsi、WDS 等
+
 虚拟化：熟悉 vmware vsphere 5/6、vcenter/VCSA 以及 HA、DRS、docker、KVM 等、K8S、
+
 openstack 组件有了解 
+
 存储：熟悉 raid、LVM、iSCSI、openfiler 等。了解 NAS、SAN
+
 网络：熟悉 VLSM、CIDR 等 
+
 思科锐捷基本配置：熟悉 IP、ACL、RIP、OSPF、NAT、IPSec、l2tp、pptp、SSLVPN
+
 语言：了解 shell、SQL、c/c++ 
+
 数据库：了解 MySQL/Mariadb、Oracle11g-r1 
 
 ## 荣誉奖励
 2018 年全国职业院校技能大赛中职组“神州数码 DCN 杯”网络搭建与应用二等奖
 
-2018 年江苏省职业院校技能大赛中职组 网络搭建与应用一等奖 
+2018 年江苏省职业院校技能大赛中职组 网络搭建与应用一等奖
+
 ## 技能证书
 RED HAT CERTIFIED ENGINEER
+
 计算机技术与软件专业技术(网络工程师) 
+
 熟练使用 office 办公软件
+
 ## 项目
 
 #### 
