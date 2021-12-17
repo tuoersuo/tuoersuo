@@ -51,6 +51,7 @@ openstack 组件有了解
 
 2018 年江苏省职业院校技能大赛中职组 网络搭建与应用一等奖
 
+校奖学金 三等奖学金
 ## 技能证书
 RED HAT CERTIFIED ENGINEER
 
