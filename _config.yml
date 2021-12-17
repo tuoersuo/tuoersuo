@@ -1,10 +1,11 @@
-url: https://tuoersuo.github.io/
+
 theme: jekyll-theme-cayman
 title: JYWT38
+description: "2022"
 encoding: UTF-8
 future: true
 jailed: false
-description: "2022"
+
 gfm_quirks: paragraph_end
 lsi: false
 safe: true
