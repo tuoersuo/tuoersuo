@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+description: "2022"
 plugins:
    - jekyll-coffeescript
    - jekyll-gist
