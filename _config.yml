@@ -6,7 +6,7 @@ encoding: UTF-8
 future: true
 jailed: false
 
-github: [metadata]
+github:
   is_project_page: false
 
 gfm_quirks: paragraph_end
